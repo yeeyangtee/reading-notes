@@ -1,0 +1,29 @@
+Letter by Ross Stevens to shareholders of Stone Ridge, an asset management company with $10B AUM as of 2020 (not sure if legit numbers. [Source](https://www.preqin.com/data/profile/fund-manager/stone-ridge-asset-management/102406))
+
+Starts of with the standard argument that fiat money as we know it is increasingly unsound. Possible hyperinflation, QE (money printer go brr), being taken off gold standard are the main arguments cited for the invalidity of USD today. 
+
+Money is technology. Technology because we **created** instrinsically **useless** pieces of paper that store our wealth today for consumption tomorrow. Very complex statement about this seemingly simple technology that is needed to fulfil so many functions of our lives now. To serve its function, money should: store its **value** across space and time, and be exchangable for services. Thinking about it, second function seems to be dependent on the first. Either way most of the arguments on fiat money being unsound is based on the failure of the first function.
+
+Also, storing wealth is a born instinct among any successful human. We plan for the future, our ancestores stored seeds for not just the next season but maybe 10 following seasons, they found ways to preserve food throughout time. In the past food was wealth. Today we save our money for the future. Fundamentally, the tendency to store wealth is a kind of risk reduction behaviour that should be programmed in us. 
+
+### On Fed printing and QE
+Modern central banking is compared to helicopter parents. When economy is gonna get rekt, just protect it by throwing bils or trils of cash. Letter says that this has a disproportionately large effect on those who receive it first, or those who already pre-own certain financial assets - *at the expense of everyone else*. 
+
+Need to read more on how US does their QE compared to SG. I only know that buy cash equivalent assets using BRR-ed money, which injects liquidity into the market. This allows banks to issue more loans, maybe at cheaper rates? Can see how this benefits asset owners. SG probably doesnt brr money, but use from reserves. Did SG do the same buyback stuff? I only know we did direct transfer to needy citizens using some budget trickery. US did this also with the stimulus checks. What % of the QE is in direct transfer VS doing lame banker stuff?
+
+Whats bad about this:
+- Economy functions based on price signals. Doing this messes up these essential price signals.
+- Causes inefficiencies in allocating human and capital resources. Allowing easier loans for shitty businesses lets shitty businesses survive. Think of the mid 40s SME owner in Singapore who doesn't know how to book grab using his phone, calling for support from govt for his business. Bro, adapt or die.
+- Illusion of prosperity in sectors that get the funds, if there are differences in allocation, which there will be.
+- Causes or increases severity of boom and busts of the so called economic cycle. Read TALEB's work on antifragility. The more you try to dampen a fall the greater it will be when you finally can't dampen it anymore.
+
+
+## Key characteristics of bitcoin that make it awesome:
+Ross calls it his aha-moments. Learnt a new word: salability - the quality of being salable or marketable. salableness. quality - an essential and distinguishing attribute of something or someone.
+
+1. Keeps value across time. Essentially a result of 21 million capped supply. If gold goes up in price by 50x overnight, be sure that the whole world will melt down all their jewellry, bankers will quit their jobs to be gold miners. Supply is a function of price for gold, supply is determined in few lines of code for bitcoin.
+2. Keeps value across space. If you imagine transporting 100M of gold from USA to China, you probably need to pay a huge part of it in transaction fees, to hire security, for the different modes of transportation etc. To transport 100M of bitcoin from place X to place Y costs maybe 20USD regardless. Comparison to payment companies like Visa is irrelevant because they are not a settlement in finality (payment providers essentially tank the risk for you and settle few days later).
+3. Difficulty adjustment of bitcoin. I understand this part of bitcoin protocol pretty well, probably better than Ross. His argument seems to be that difficulty adjustment allows the bitcoin network to be **just as secure** regardless of the amount of mining power. Should have clarified that it is just as secure with security being a percentage of bitcoin market cap. Also the security he talks about stems from keeping block time constant, which is to prevent unexpected inflation. Not very clear bro. There should be some distinction between security of the network(resistant to hack or attack) and 'monetary security' (resistant to inflation??). It's very true that the absoluate security of the network falls proportionately as bitcoin price drops.
+4.  Bitcoin and energy. Bitcoin is much more energy efficient as a means of trust. What is the cost of trust? Look at CBD buildings with the bank headers. It's the cost of the pantry food for those folks shaking their legs in their office! Many points here but a new one is that our problems with energy production has *never been its scarcity, but only our ability to channel it geographically where we need it most*. Bitcoin mining essentially lets us extract energy from remote, isolated sources, store it in magical coins, transfer that energy to anywhere else in the world and trade it for goods+services. 
+
+All in all quite cool letter, this Ross guy seems like a solid character. I like the part talking about the people at his form. Makes me feel like joining his company.
